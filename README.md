@@ -13,10 +13,11 @@ The following data points are available:
 * Vehicle Type
 * Drivetrain
 * Transmission
+* Partial Vin
 * Interior Color*
 * Exterior Color*
 
-Colors are selected at random from a list of pre-defined colors.
+*Colors are selected at random from a list of pre-defined colors.
 
 
 ## Installation
