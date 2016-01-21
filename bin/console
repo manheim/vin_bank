@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+
+require "bundler/setup"
+require "pry"
+require "vin_bank"
+
+binding.pry
+
